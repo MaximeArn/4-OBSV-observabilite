@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+**/config/local*.yaml
+.DS_Store
+data-alloy
+data-agent
+promtail
+log

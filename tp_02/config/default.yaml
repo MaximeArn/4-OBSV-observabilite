@@ -1,0 +1,8 @@
+app:
+  name: 'demo_server'
+logLevel: 'info'
+api:
+  port: 3000
+monitoring:
+  metrics:
+    port: 9100

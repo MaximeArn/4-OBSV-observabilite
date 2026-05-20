@@ -1,0 +1,8 @@
+app:
+  name: APP_NAME
+logLevel: LOG_LEVEL
+api:
+  port: PORT
+monitoring:
+  metrics:
+    port: METRICS_PORT
